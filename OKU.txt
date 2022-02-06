@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------------------
+Kurulum İçin Aşamalar
+1-NodeJs İndirimi
+Önerilen Sürüm: https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi
+2-NodeJSyi Normal Kur
+3-Setup Cmdsini Çalıştır
+4-Setup Cmdsi Arkada Açık Kalsın
+5-Başlat Cmdsi Çalıştır
+6-Program Açıldı
+Not:Sunucuya Tokenleri Basmaz Üşendim Yapmaya :)
+LWA TEAM 
+---------------------------------------------------------------------------------------------------------------
